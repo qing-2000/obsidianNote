@@ -31,10 +31,14 @@
             "id": "e512388672fc2a36",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "软件体系结构/UML结构/类图与对象图.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "类图与对象图"
             }
           }
         ]
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "软件体系结构/UML结构/类图与对象图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "类图与对象图 的反向链接列表"
             }
           },
           {
@@ -128,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "软件体系结构/UML结构/类图与对象图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "类图与对象图 的出链列表"
             }
           },
           {
@@ -156,12 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "软件体系结构/UML结构/类图与对象图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "类图与对象图 的大纲"
             }
           }
         ]
